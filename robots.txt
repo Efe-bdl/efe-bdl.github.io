@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://efebedel.com.tr/sitemap.xml
