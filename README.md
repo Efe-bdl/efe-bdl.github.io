@@ -1,2 +1,2 @@
 # efe-bdl.github.io
-My Personal Website.
+This project is a personal website created to improve my web development skills and apply the technologies I have learned in a real-world project. During the development process, I focused on user-friendly interface design, dynamic page structures, data management, and modern web development approaches. The website includes different sections and functionalities and is continuously being improved to showcase my technical growth and gain practical experience.
